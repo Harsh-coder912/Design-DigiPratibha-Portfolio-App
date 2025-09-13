@@ -1,0 +1,4 @@
+# Ignore all Supabase files to prevent deployment
+*
+!.gitignore
+!config.toml

@@ -1,0 +1,23 @@
+# SUPABASE DISABLED FOR DIGIPRATIBHA
+# This app uses mock data only - no backend services required
+
+[api]
+enabled = false
+
+[db]
+enabled = false
+
+[auth]
+enabled = false
+
+[storage]
+enabled = false
+
+[edge_functions]
+enabled = false
+
+[analytics]
+enabled = false
+
+[realtime]
+enabled = false
