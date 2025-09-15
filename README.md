@@ -1,7 +1,7 @@
 
   # Design DigiPratibha Portfolio App
 
-  This is a code bundle for Design DigiPratibha Portfolio App. The original project is available at https://www.figma.com/design/KesSCtOvMm5PONIiHC3fkV/Design-DigiPratibha-Portfolio-App.
+  This is a code bundle for Design DigiPratibha Portfolio App.
 
   ## Running the code
 
